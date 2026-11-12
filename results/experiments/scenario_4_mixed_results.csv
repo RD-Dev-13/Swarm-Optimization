@@ -1,0 +1,8 @@
+scenario,algorithm,makespan_mean,makespan_std,fitness_mean,fitness_std,utilization_mean,utilization_std,load_imbalance_mean,load_imbalance_std,waiting_time_mean,waiting_time_std
+Scenario 4 (Mixed),FCFS,36.73,0.87,46.45,0.42,70.83,0.16,0.98,0.03,0.78,0.21
+Scenario 4 (Mixed),RoundRobin,52.02,1.12,61.73,1.56,50.12,2.41,0.98,0.03,2.99,0.58
+Scenario 4 (Mixed),MCT,37.53,0.68,47.25,0.23,69.38,0.6,0.98,0.03,1.38,0.41
+Scenario 4 (Mixed),PSO,38.37,0.75,39.48,0.82,75.29,0.62,0.1,0.01,2.55,0.42
+Scenario 4 (Mixed),GWO,38.03,0.53,38.44,0.59,76.2,0.65,0.03,0.0,1.68,0.09
+Scenario 4 (Mixed),ABC,37.29,2.08,38.72,1.83,77.64,1.96,0.13,0.03,2.16,0.33
+Scenario 4 (Mixed),Adaptive,38.99,0.12,40.12,0.61,74.03,1.66,0.11,0.08,2.13,0.01

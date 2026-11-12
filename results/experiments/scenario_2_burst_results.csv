@@ -1,0 +1,8 @@
+scenario,algorithm,makespan_mean,makespan_std,fitness_mean,fitness_std,utilization_mean,utilization_std,load_imbalance_mean,load_imbalance_std,waiting_time_mean,waiting_time_std
+Scenario 2 (Bursty),FCFS,64.56,0.79,65.98,1.39,97.41,0.3,0.05,0.02,23.76,3.7
+Scenario 2 (Bursty),RoundRobin,97.64,12.19,99.07,12.79,65.57,7.35,0.05,0.02,25.85,4.5
+Scenario 2 (Bursty),MCT,65.66,1.14,67.09,1.74,96.15,0.42,0.05,0.02,23.8,3.5
+Scenario 2 (Bursty),PSO,63.88,1.53,64.18,1.73,99.17,0.56,0.01,0.01,25.08,2.99
+Scenario 2 (Bursty),GWO,65.18,1.35,66.76,1.89,97.65,0.05,0.05,0.02,24.38,3.63
+Scenario 2 (Bursty),ABC,66.07,2.54,66.88,2.27,96.19,2.08,0.03,0.01,24.14,3.87
+Scenario 2 (Bursty),Adaptive,64.32,0.68,65.03,0.51,98.53,0.52,0.03,0.01,24.18,3.6

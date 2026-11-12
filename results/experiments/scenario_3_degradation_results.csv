@@ -1,0 +1,8 @@
+scenario,algorithm,makespan_mean,makespan_std,fitness_mean,fitness_std,utilization_mean,utilization_std,load_imbalance_mean,load_imbalance_std,waiting_time_mean,waiting_time_std
+Scenario 3 (Degradation),FCFS,111.46,1.62,121.23,4.0,88.84,1.86,0.21,0.04,28.65,0.12
+Scenario 3 (Degradation),RoundRobin,177.81,3.79,187.58,6.17,55.69,0.79,0.21,0.04,37.92,0.89
+Scenario 3 (Degradation),MCT,110.26,3.71,120.03,6.08,89.82,0.16,0.21,0.04,29.38,1.08
+Scenario 3 (Degradation),PSO,106.28,4.18,108.61,4.93,95.27,0.33,0.05,0.02,30.11,0.05
+Scenario 3 (Degradation),GWO,106.78,4.38,111.6,6.75,94.19,1.21,0.11,0.05,29.94,1.29
+Scenario 3 (Degradation),ABC,107.98,5.08,111.4,4.9,94.98,0.23,0.08,0.01,28.86,0.07
+Scenario 3 (Degradation),Adaptive,107.64,5.62,111.0,6.82,95.09,0.78,0.07,0.02,29.74,0.09

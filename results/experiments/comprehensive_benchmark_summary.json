@@ -1,0 +1,21 @@
+{
+  "execution_timestamp": "2026-11-12 11:49:05",
+  "total_benchmark_duration_sec": 8.94,
+  "trials_per_scenario": 2,
+  "algorithms_evaluated": [
+    "FCFS",
+    "RoundRobin",
+    "MCT",
+    "PSO",
+    "GWO",
+    "ABC",
+    "Adaptive"
+  ],
+  "scenarios": [
+    "Scenario 1: Normal Workload (20 tasks, 3 stable VMs)",
+    "Scenario 2: Sudden Workload Burst (30 bursty tasks, surge arrivals)",
+    "Scenario 3: VM Degradation (25 heavy tasks, VM2 at 50% capacity)",
+    "Scenario 4: Mixed Heterogeneous Workload (35 tasks, 4 VMs)"
+  ],
+  "master_csv_path": "D:\\BIC PROJECT\\results\\experiments\\comprehensive_benchmark_summary.csv"
+}
